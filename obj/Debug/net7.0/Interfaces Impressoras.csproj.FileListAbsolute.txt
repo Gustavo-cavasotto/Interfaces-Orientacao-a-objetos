@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\bin\Debug\net7.0\Interfaces Impressoras.exe
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\bin\Debug\net7.0\Interfaces Impressoras.deps.json
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\bin\Debug\net7.0\Interfaces Impressoras.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\bin\Debug\net7.0\Interfaces Impressoras.dll
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\bin\Debug\net7.0\Interfaces Impressoras.pdb
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\obj\Debug\net7.0\Interfaces Impressoras.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\obj\Debug\net7.0\Interfaces Impressoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\obj\Debug\net7.0\Interfaces Impressoras.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\obj\Debug\net7.0\Interfaces Impressoras.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\obj\Debug\net7.0\Interfaces Impressoras.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\obj\Debug\net7.0\Interfaces Impressoras.dll
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\obj\Debug\net7.0\refint\Interfaces Impressoras.dll
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\obj\Debug\net7.0\Interfaces Impressoras.pdb
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\obj\Debug\net7.0\Interfaces Impressoras.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\Interfaces Impressoras\obj\Debug\net7.0\ref\Interfaces Impressoras.dll
